@@ -1,0 +1,202 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.dididid{
+    overflow-x: hidden;
+}
+.i{
+    
+
+font-family: 'Kanit', sans-serif;
+color: rgb(10, 10, 10);
+
+}
+.Navbar{
+/* background-color: aqua; */
+height: 170px;
+display: flex;
+
+box-shadow: 0 0 8px rgb(15, 15, 15);
+}
+.wudtext{
+    font-family: 'Times New Roman', Times, serif;
+   font-size: 22px;
+   /* background-color: blue; */
+   width: 450px;
+   height: 170px;
+   display: flex;
+   justify-content: end;
+   align-items: center;
+   color: black;
+}
+.wudoption{
+     /* background-color: rgb(235, 28, 28); */
+        height: 170px;
+          width: 920px;
+          display: flex;
+          justify-content: end;
+          align-items: end;
+}
+.options{
+    font-size: 20px;
+    color: grey;
+    
+
+
+
+}
+.optionmain{
+    width: 550px;
+    /* background-color: cornflowerblue; */
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+/* .........................................Main................. */
+
+
+.mainsub{
+    
+    height: 240px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+.mainsub1{
+    /* background-color: crimson; */
+    height: 50px;
+    width: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.mainsub2{
+    /* background-color: blue; */
+    width: 900px;
+    text-align: center;
+}
+.feature{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.para{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: grey;
+}
+
+
+
+/* .............................................main1............. */
+
+.content1{
+
+    width: 1350px;
+    height: 620px;
+   background-color: rgba(128, 128, 128, 0.171);
+   
+}
+.contentsub{
+   
+    width: 500px;
+}
+.img{
+    object-fit: fill;
+
+}
+
+.diiv{
+    width: 1000px;
+    height: 520px;
+    top: 30px;
+    left: 180px;
+    
+   
+   
+    
+}
+
+
+/* ...........................................................cont1.... */
+
+
+.Cont2sub{
+  
+    height: 180px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+.bedint{
+    font-family: 'Kanit', sans-serif;
+color: rgb(10, 10, 10);
+}
+.client{
+    color: grey;
+    font-family: 'Times New Roman', Times, serif;
+}
+.place{
+    color: grey;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.sq{
+    font-family: 'Times New Roman', Times, serif;
+    color: grey;
+}
+
+/* ...............................cont3...................... */
+
+
+.cont3sub{
+    width: 1350px;
+    height: 620px;
+   background-color: rgba(128, 128, 128, 0.171);
+}
+
+/* ........................................cont3sub.... */
+.content5{
+    width: 1350px;
+    height: 620px;
+   background-color: rgba(128, 128, 128, 0.171);
+}
+
+/* ................................cont5,................. */
+
+.footer{
+    width: 1350px;
+    background-color: rgba(128, 128, 128, 0.171);
+    height: 80px;
+    display: flex;
+   justify-content: end;
+}
+.qr{
+    /* background-color: chocolate; */
+   
+    width: 400px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+    padding-right: 10px;
+}
+.media{
+    /* background-color: darkgreen; */
+    width: 500px;
+    display: flex;
+   
+    justify-content: center;
+    align-items: center;
+}
+.social{
+    /* background-color: aqua; */
+    width: 250px;
+    display: flex;
+    justify-content: space-evenly;
+    height: 50px;
+    
+}
